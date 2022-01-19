@@ -1,0 +1,17 @@
+body{
+    background: url(./telavivnew-inside-min.jpg)center/cover no-repeat;
+} 
+
+.pricing-table .package{
+min-width: 300px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#city{
+    text-align: center;
+}
